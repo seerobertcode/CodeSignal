@@ -2,7 +2,7 @@ package arcade.intro.theJourneyBegins;
 
 public class CheckPalindrome {
     public static void main(String[] args) {
-
+        System.out.println(checkPalindrome("abcd"));
     }
 
     public static boolean checkPalindrome(String inputString) {
