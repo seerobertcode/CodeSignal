@@ -2,7 +2,7 @@ package arcade.intro.theJourneyBegins;
 
 public class CenturyFromYear {
     public static void main(String[] args) {
-        System.out.println(centuryFromYear(1999));
+        System.out.println(centuryFromYear(2021));
     }
 
     public static int centuryFromYear(int year) {

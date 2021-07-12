@@ -1,6 +1,6 @@
 package arcade.intro.theJourneyBegins;
 
-public class App {
+public class Add {
     public static void main(String[] args) throws Exception {
         System.out.println(add(2,3));
     }
