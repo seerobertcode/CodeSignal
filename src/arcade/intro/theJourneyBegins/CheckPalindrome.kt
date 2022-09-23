@@ -1,4 +1,4 @@
-package kotlinCode.arcade.intro.theJourneyBegins
+package arcade.intro.theJourneyBegins
 
 fun main() {
     println("Is a aabbaa a palindrome? ${checkIfPalindromeUsingSubstring("aabbaa")}")
