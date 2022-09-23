@@ -1,4 +1,4 @@
-package arcade.intro.theJourneyBegins;
+package javaCode.arcade.theJourneyBegins;
 
 public class CheckPalindrome {
     public static void main(String[] args) {

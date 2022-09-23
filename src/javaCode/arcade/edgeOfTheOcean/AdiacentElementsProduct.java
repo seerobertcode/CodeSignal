@@ -1,4 +1,4 @@
-package arcade.intro.edgeOfTheOcean;
+package javaCode.arcade.edgeOfTheOcean;
 
 public class AdiacentElementsProduct {
     public static void main(String[] args) throws Exception {
